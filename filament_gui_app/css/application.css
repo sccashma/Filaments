@@ -1,0 +1,57 @@
+.window {
+    background-color: #233D54;
+}
+
+.heading {
+    color: #EEEEEE;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.normal_text {
+    color: #EEEEEE;
+    font-size: 9px;
+}
+
+.table_header {
+    color: #EEEEEE;
+    font-size: 16px;
+}
+
+#centralwidget {
+    background-color: #233D54;
+    border-radius: 20px;
+}
+
+QLabel#Title {
+    color: #97b2c9;
+    font: bold 16px 'Gill Sans MT';
+}
+
+.table {
+    /* This is done in the codebase due to limitations of Qt 
+    background-color: #D9D9D9; */
+    border-radius: 11px;
+    font-size: 16px;
+    padding: 10px;
+}
+
+.flushing_table {
+    background-color: #C8C8C8;
+    border-radius: 11px;
+    font-size: 16px;
+}
+
+.flushing_table::item:hover {
+    background-color: #9B9B9B;
+}
+
+.flushing_table::item:selected {
+    background-color: white;
+    color: black;
+}
+
+QPushButton#save_button {
+    border-radius: 11px;
+    background-color: #EEEEEE;
+}
