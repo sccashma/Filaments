@@ -1,6 +1,21 @@
-# Filament GUI Application
+# Filaments
 
-This project is a simple GUI application designed to manage filament data using the MVP (Model-View-Presenter) architecture. It allows users to store, view, and update information about various filaments in a SQLite3 database.
+Filaments is a simple Windows 11 desktop application that helps 3D printing enthusiasts keep track of their filament collection. If you've ever lost important filament information—like brand, color, material, flushing volume, or calibration data—after a firmware update (especially from Bambu Lab printers), this app is for you.
+
+With Filaments, you can:
+ - Store detailed information about each filament spool
+ - View and manage your entire collection in one place
+ - Preserve important data that might otherwise be deleted by printer software updates
+
+To get started, simply download the latest setup.exe from the Releases page, install it on your Windows 11 machine, and launch the app—no technical experience needed.
+
+# For Contributers
+
+## Introduction
+
+This project is a simple GUI application designed to manage filament data using the MVP (Model-View-Presenter) architecture. It allows users to store, view, and update information about various filaments in a SQLite3 database. The requirement for this project came from the Bambulabs updates etc deleting or removing my filament data including calibration values and flushing volume values that are calibrated.
+
+If you are interested in helping to expand on this project, I welcome anyone with interest to reach out to me at [scottc.filaments@gmail.com](scottc.filaments@gmail.com)
 
 ## Project Structure
 
