@@ -1,4 +1,5 @@
-Filaments*Setup.exe
+Filaments*_Setup.exe
+Filaments*_sha256sum.txt
 filament_gui_app/build/
 filament_gui_app/dist/
 *__pycache__/
